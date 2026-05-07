@@ -1,4 +1,17 @@
+# Python
 venv/
-.env
 __pycache__/
 *.pyc
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# Next.js
+.next/
+
+# OS Files
+.DS_Store
+Thumbs.db
