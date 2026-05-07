@@ -4,9 +4,9 @@ A full-stack Weather Forecast & Alert Application built using Next.js, FastAPI, 
 
 🚀 Live Demo
 Frontend (Vercel)
-PASTE_YOUR_VERCEL_LINK_HERE
+(https://weather-forecast-alert-dashboard.vercel.app/)
 Backend API (Render)
-PASTE_YOUR_RENDER_LINK_HERE
+(https://weather-forecast-alert-dashboard.onrender.com)
 📌 Project Overview
 
 This project is a real-time weather intelligence platform designed to provide accurate weather forecasts, environmental insights, and weather alerts for different locations.
